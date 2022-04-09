@@ -1,0 +1,25 @@
+{
+  "time_bonus_infos": [
+    {
+      "mode": 1,
+      "level": 1,
+      "standardTime": 25.0,
+      "bonusTime": 15.0,
+      "bonusAddScale": 0.5
+    },
+    {
+      "mode": 1,
+      "level": 2,
+      "standardTime": 30.0,
+      "bonusTime": 25.0,
+      "bonusAddScale": 0.5
+    },
+    {
+      "mode": 1,
+      "level": 3,
+      "standardTime": 40.0,
+      "bonusTime": 35.0,
+      "bonusAddScale": 0.5
+    }
+  ]
+}
