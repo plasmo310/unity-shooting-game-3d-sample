@@ -14,4 +14,5 @@
  </br>
 ・リリース版で使用していた外部フォントについては規定のフォントに戻しているため、レイアウト崩れ等発生 している箇所があります。</br>
 </br>
-![image](https://user-images.githubusercontent.com/77447256/162586856-0afd1025-6fbf-4272-9938-8106dfeab516.png)
+![Screenshot_20220326-232127](https://user-images.githubusercontent.com/77447256/162586891-f30f3e9b-608d-4739-8c0d-48b1e8ac3e6c.png)
+![Screenshot_20220326-232130](https://user-images.githubusercontent.com/77447256/162586898-5aa05a45-2474-4efb-8718-6b0cd95bdcd6.png)
